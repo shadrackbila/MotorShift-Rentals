@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MotorShift_Rentals/1.0.0": {
+        "runtime": {
+          "MotorShift_Rentals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MotorShift_Rentals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
